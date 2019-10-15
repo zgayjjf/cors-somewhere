@@ -1,15 +1,15 @@
 {
-  "name": "cors-anywhere",
+  "name": "cors-somewhere",
   "version": "0.4.1",
-  "description": "CORS Anywhere is a reverse proxy which adds CORS headers to the proxied request. Request URL is taken from the path",
+  "description": "CORS Somewhere is a fork of CORS Anywhere. CORS Anywhere is a reverse proxy which adds CORS headers to the proxied request. Request URL is taken from the path",
   "license": "MIT",
   "author": "Rob Wu <rob@robwu.nl>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rob--W/cors-anywhere.git"
+    "url": "https://github.com/zgayjjf/cors-somewhere.git"
   },
   "bugs": {
-    "url": "https://github.com/Rob--W/cors-anywhere/issues/",
+    "url": "https://github.com/zgayjjf/cors-somewhere/issues",
     "email": "rob@robwu.nl"
   },
   "keywords": [
